@@ -49,9 +49,7 @@ These statistics include:
 
 ### Expanded Stats
 Currently Maple only tracks: Deaths and Current Streak. 
-I think this is very limited during the stream Shurm also said it would be cool if there were more stats to look at.
-I was also saying I agree and was hoping to see Maple agree to add them. 
-He didn't really respond so I will be including them in my mod.
+I think this is very limited during the stream Shurm also said it would be cool if there were more stats to look at. I will be including them in my mod.
 I will be adding:
 - Attempts, this will be the total number of attempts that have happened.
 - Failures, this is basically the death count and I might still call it deaths.
@@ -76,7 +74,7 @@ For the future, I think including graphs to show the stats over time, and being 
 
 ## Inspiration
 ### Why this mod is getting made?
-Basically I wanted to make a mod since I learned how to code in about 2018/2019, but I never bothered to get around it it- my ideas were to grand(iose). 
+Basically I wanted to make a mod since I learned how to code in about 2018/2019, but I never bothered to get around to it - my ideas were to grand(iose). 
 Recently, I started tuning into streams by Shurm.
 Then a few days later Shurm started his new challenge to get 100 MLG clutches consecutively, and he was using of a bespoke mod by Maple.
 This made me remember,
@@ -87,6 +85,3 @@ So I'm trying to remake the same mod that Maple made for him.
 ### Additional Notes
 Maple did give me access to his repo. I am not going to be copying his code, but due to the nature of making the same mod I imagine some of the code will look similar.
 I have very loosely looked at the mods source code he made because I wanted to see what sort of statistics he had implemented. 
-In an ideal world Shurmanation continues to use the mod made by Maple and my mod will just be for my experience making a mod. 
-But my intended features I want to implement I am hoping to be improvements on Maples.
-
